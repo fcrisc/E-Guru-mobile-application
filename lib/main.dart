@@ -12,6 +12,7 @@ import 'package:onesignal_flutter/onesignal_flutter.dart';
 final FlutterLocalNotificationsPlugin flutterLocalNotificationsPlugin =
     FlutterLocalNotificationsPlugin();
 
+//Run application here
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
 
